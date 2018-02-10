@@ -11,3 +11,13 @@ git clone https://github.com/my-study-area/starting-webpack-vedoveli.git
 cd starting-webpack-vedoveli
 npm install
 ```
+Iniciar servidor
+```bash
+npm start
+```
+
+Criar arquivos de distribuição
+```bash
+npm run build
+```
+
